@@ -1,0 +1,536 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:3000/
+Subject: Activity Feed
+Date: Thu, 30 Nov 2023 10:25:52 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----"
+
+
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/html
+Content-ID: <frame-B6851627A3CFB673DD418CBE82E0160E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:3000/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-dbfb1b0b-ea20-48e8-a4c9-4ff9025b08f9@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-c67c18ef-1312-4f82=
+-b375-096845668d4c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-bb480440-8595-44a9-8b3b-600de2c8cd6f@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-d0008a1f-7e5f-4289-85=
+2e-37df05f31101@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
+ref=3D"cid:css-9bde1c9c-c7ca-45fb-bba4-4f14382e6e0e@mhtml.blink" /><link re=
+l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-f168325f-b25b-4113-a366-=
+80908294d06e@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-bf2f407a-9911-4b1b-8362-38185b78d2cf@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-495c1026-8093-46f9-abc4-6=
+aeb547af6ca@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-38060877-1488-4b22-928e-36aab1cc653f@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-e2697f91-52d5-4235-9a27-e=
+2b81c04d29b@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-45f25a07-9cf2-4a62-b4a9-ba234f38aa82@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-8b0e3297-d586-4206-adba-5=
+dc4165e9887@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-28123634-aee8-4f1d-9207-34ce3677084f@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b94a419a-f186-4031-8598-6=
+ff49bdfa856@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-c5fd0b25-fa36-4850-a4de-959dcb9cd31b@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-4a051dee-f399-4bd9-a0e2-1=
+963e1317cd4@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-b3c68d46-1d6c-4cfe-b844-9db07f0878e7@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-95351889-5093-405e-ac82-7=
+a8220536165@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-637054d8-32b9-4e32-928f-19ec14d2b92c@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-03cbb8c5-d93a-4387-b85f-0=
+a3167bd0d1a@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-418f5ee8-2d07-453e-89f3-c777cdca2fdc@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5248a129-9a6c-47dd-a8b4-2=
+eeb6523f54c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-438c7d14-0b03-488e-8288-5f905d7a435a@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b348e2b0-cc7c-449c-84fa-3=
+c82e1858c08@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-e8ef773e-cd4b-4ee5-b736-03d336855149@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-0ec7c3b6-c323-42f8-b90d-e=
+7472e27f94b@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-405d81e6-68b3-449b-a83a-08e710e923db@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-10679c04-ba76-429e-8f66-d=
+fb32454a67d@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-d3c7359e-a90a-4e0f-bd53-fdd424f12655@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-1af0845f-92d9-41be-8358-3=
+6489258ea47@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-6dc9d865-8468-4dbd-a8a6-492a50f6d5af@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-2987b75a-2c1e-4014-ac57-9=
+1eeb664bc8e@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-36d8889a-ed45-460e-b525-d4327be87eb1@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-0d357f8e-0d33-4ffd-80b7-2=
+17281bb11e3@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-d267e234-c502-417e-8bbb-fa284543a8e7@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-2d509bdf-4ad2-4de4-bebb-6=
+bbd5c78ad4e@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-21630e11-4560-4cf5-a4a4-f4c99b9f4ca5@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-dd520756-a3b6-4665-b077-9=
+7c7156e81e7@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-270500e3-fd70-4109-b7f3-ee28f407beb6@mhtml.blink" />
+   =20
+    <link rel=3D"icon" href=3D"http://localhost:3000/favicon.ico">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <meta name=3D"theme-color" content=3D"#000000">
+    <meta name=3D"Mediafly Activity Feed" content=3D"Web site created using=
+ create-react-app">
+    <link rel=3D"apple-touch-icon" href=3D"http://localhost:3000/favicon.ic=
+o">
+    <!--
+      manifest.json provides metadata used when your web app is installed o=
+n a
+      user's mobile device or desktop. See https://developers.google.com/we=
+b/fundamentals/web-app-manifest/
+    -->
+    <link rel=3D"manifest" href=3D"http://localhost:3000/manifest.json">
+    <!--
+      Notice the use of  in the tags above.
+      It will be replaced with the URL of the `public` folder during the bu=
+ild.
+      Only files inside the `public` folder can be referenced from the HTML=
+.
+
+      Unlike "/favicon.ico" or "favicon.ico", "/favicon.ico" will
+      work correctly both with client-side routing and a non-root public UR=
+L.
+      Learn how to configure a non-root public URL by running `npm run buil=
+d`.
+    -->
+    <title>Activity Feed</title>
+  </head>
+  <body>
+   =20
+    <div id=3D"root"><div class=3D"MuiBox-root css-omakua">dark mode<button=
+ class=3D"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit =
+MuiIconButton-sizeMedium css-w6mvf4-MuiButtonBase-root-MuiIconButton-root" =
+tabindex=3D"0" type=3D"button"><svg class=3D"MuiSvgIcon-root MuiSvgIcon-fon=
+tSizeMedium css-i4bv87-MuiSvgIcon-root" focusable=3D"false" aria-hidden=3D"=
+true" viewBox=3D"0 0 24 24" data-testid=3D"Brightness7Icon"><path d=3D"M20 =
+8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H=
+20v-4.69L23.31 12 20 8.69zM12 18c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2=
+.69 6-6 6zm0-10c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"></pat=
+h></svg><span class=3D"MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root">=
+</span></button></div></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+ =20
+
+</body></html>
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-dbfb1b0b-ea20-48e8-a4c9-4ff9025b08f9@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 0px; font-family: -apple-system, BlinkMacSystemFont, "Segoe =
+UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helveti=
+ca Neue", sans-serif; -webkit-font-smoothing: antialiased; }
+
+code { font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New"=
+, monospace; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c67c18ef-1312-4f82-b375-096845668d4c@mhtml.blink
+
+@charset "utf-8";
+
+.css-nvvjlk { display: flex; width: 100%; -webkit-box-align: center; align-=
+items: center; -webkit-box-pack: center; justify-content: center; backgroun=
+d-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.87); border-radius: 4px=
+; padding: 24px; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-bb480440-8595-44a9-8b3b-600de2c8cd6f@mhtml.blink
+
+@charset "utf-8";
+
+.css-o5wwd4-MuiIconButton-root { text-align: center; flex: 0 0 auto; font-s=
+ize: 1.5rem; padding: 8px; border-radius: 50%; overflow: visible; transitio=
+n: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color: inherit;=
+ margin-left: 8px; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d0008a1f-7e5f-4289-852e-37df05f31101@mhtml.blink
+
+@charset "utf-8";
+
+.css-o5wwd4-MuiIconButton-root:hover { background-color: rgba(0, 0, 0, 0.04=
+); }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-9bde1c9c-c7ca-45fb-bba4-4f14382e6e0e@mhtml.blink
+
+@charset "utf-8";
+
+@media (hover: none) {
+  .css-o5wwd4-MuiIconButton-root:hover { background-color: transparent; }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f168325f-b25b-4113-a366-80908294d06e@mhtml.blink
+
+@charset "utf-8";
+
+.css-o5wwd4-MuiIconButton-root.Mui-disabled { background-color: transparent=
+; color: rgba(0, 0, 0, 0.26); }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-bf2f407a-9911-4b1b-8362-38185b78d2cf@mhtml.blink
+
+@charset "utf-8";
+
+.css-whjmaz-MuiButtonBase-root-MuiIconButton-root { display: inline-flex; -=
+webkit-box-align: center; align-items: center; -webkit-box-pack: center; ju=
+stify-content: center; position: relative; box-sizing: border-box; -webkit-=
+tap-highlight-color: transparent; background-color: transparent; outline: 0=
+px; border: 0px; margin: 0px 0px 0px 8px; cursor: pointer; user-select: non=
+e; vertical-align: middle; appearance: none; text-decoration: none; text-al=
+ign: center; flex: 0 0 auto; font-size: 1.5rem; padding: 8px; border-radius=
+: 50%; overflow: visible; transition: background-color 150ms cubic-bezier(0=
+.4, 0, 0.2, 1) 0ms; color: inherit; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-495c1026-8093-46f9-abc4-6aeb547af6ca@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-38060877-1488-4b22-928e-36aab1cc653f@mhtml.blink
+
+@charset "utf-8";
+
+.css-whjmaz-MuiButtonBase-root-MuiIconButton-root.Mui-disabled { pointer-ev=
+ents: none; cursor: default; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e2697f91-52d5-4235-9a27-e2b81c04d29b@mhtml.blink
+
+@charset "utf-8";
+
+@media print {
+  .css-whjmaz-MuiButtonBase-root-MuiIconButton-root { -webkit-print-color-a=
+djust: exact; }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-45f25a07-9cf2-4a62-b4a9-ba234f38aa82@mhtml.blink
+
+@charset "utf-8";
+
+.css-whjmaz-MuiButtonBase-root-MuiIconButton-root:hover { background-color:=
+ rgba(0, 0, 0, 0.04); }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8b0e3297-d586-4206-adba-5dc4165e9887@mhtml.blink
+
+@charset "utf-8";
+
+@media (hover: none) {
+  .css-whjmaz-MuiButtonBase-root-MuiIconButton-root:hover { background-colo=
+r: transparent; }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-28123634-aee8-4f1d-9207-34ce3677084f@mhtml.blink
+
+@charset "utf-8";
+
+.css-whjmaz-MuiButtonBase-root-MuiIconButton-root.Mui-disabled { background=
+-color: transparent; color: rgba(0, 0, 0, 0.26); }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-b94a419a-f186-4031-8598-6ff49bdfa856@mhtml.blink
+
+@charset "utf-8";
+
+.css-i4bv87-MuiSvgIcon-root { user-select: none; width: 1em; height: 1em; d=
+isplay: inline-block; fill: currentcolor; flex-shrink: 0; transition: fill =
+200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; font-size: 1.5rem; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c5fd0b25-fa36-4850-a4de-959dcb9cd31b@mhtml.blink
+
+@charset "utf-8";
+
+.css-8je8zh-MuiTouchRipple-root { overflow: hidden; pointer-events: none; p=
+osition: absolute; z-index: 0; inset: 0px; border-radius: inherit; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-4a051dee-f399-4bd9-a0e2-1963e1317cd4@mhtml.blink
+
+@charset "utf-8";
+
+.css-y4cjyz-MuiTouchRipple-ripple { opacity: 0; position: absolute; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-b3c68d46-1d6c-4cfe-b844-9db07f0878e7@mhtml.blink
+
+@charset "utf-8";
+
+.css-y4cjyz-MuiTouchRipple-ripple.MuiTouchRipple-rippleVisible { opacity: 0=
+.3; transform: scale(1); animation-name: animation-1taevns; animation-durat=
+ion: 550ms; animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-95351889-5093-405e-ac82-7a8220536165@mhtml.blink
+
+@charset "utf-8";
+
+.css-y4cjyz-MuiTouchRipple-ripple.MuiTouchRipple-ripplePulsate { animation-=
+duration: 200ms; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-637054d8-32b9-4e32-928f-19ec14d2b92c@mhtml.blink
+
+@charset "utf-8";
+
+.css-y4cjyz-MuiTouchRipple-ripple .MuiTouchRipple-child { opacity: 1; displ=
+ay: block; width: 100%; height: 100%; border-radius: 50%; background-color:=
+ currentcolor; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-03cbb8c5-d93a-4387-b85f-0a3167bd0d1a@mhtml.blink
+
+@charset "utf-8";
+
+.css-y4cjyz-MuiTouchRipple-ripple .MuiTouchRipple-childLeaving { opacity: 0=
+; animation-name: animation-5ich1p; animation-duration: 550ms; animation-ti=
+ming-function: cubic-bezier(0.4, 0, 0.2, 1); }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-418f5ee8-2d07-453e-89f3-c777cdca2fdc@mhtml.blink
+
+@charset "utf-8";
+
+.css-y4cjyz-MuiTouchRipple-ripple .MuiTouchRipple-childPulsate { position: =
+absolute; left: 0px; top: 0px; animation-name: animation-f6tr5a; animation-=
+duration: 2500ms; animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); =
+animation-iteration-count: infinite; animation-delay: 200ms; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5248a129-9a6c-47dd-a8b4-2eeb6523f54c@mhtml.blink
+
+@charset "utf-8";
+
+@-webkit-keyframes animation-f6tr5a {=20
+  0% { transform: scale(1); }
+  50% { transform: scale(0.92); }
+  100% { transform: scale(1); }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-438c7d14-0b03-488e-8288-5f905d7a435a@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes animation-f6tr5a {=20
+  0% { transform: scale(1); }
+  50% { transform: scale(0.92); }
+  100% { transform: scale(1); }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-b348e2b0-cc7c-449c-84fa-3c82e1858c08@mhtml.blink
+
+@charset "utf-8";
+
+@-webkit-keyframes animation-5ich1p {=20
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e8ef773e-cd4b-4ee5-b736-03d336855149@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes animation-5ich1p {=20
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-0ec7c3b6-c323-42f8-b90d-e7472e27f94b@mhtml.blink
+
+@charset "utf-8";
+
+@-webkit-keyframes animation-1taevns {=20
+  0% { transform: scale(0); opacity: 0.1; }
+  100% { transform: scale(1); opacity: 0.3; }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-405d81e6-68b3-449b-a83a-08e710e923db@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes animation-1taevns {=20
+  0% { transform: scale(0); opacity: 0.1; }
+  100% { transform: scale(1); opacity: 0.3; }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-10679c04-ba76-429e-8f66-dfb32454a67d@mhtml.blink
+
+@charset "utf-8";
+
+.css-omakua { display: flex; width: 100%; -webkit-box-align: center; align-=
+items: center; -webkit-box-pack: center; justify-content: center; backgroun=
+d-color: rgb(18, 18, 18); color: rgb(255, 255, 255); border-radius: 4px; pa=
+dding: 24px; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d3c7359e-a90a-4e0f-bd53-fdd424f12655@mhtml.blink
+
+@charset "utf-8";
+
+.css-10l8haz-MuiIconButton-root { text-align: center; flex: 0 0 auto; font-=
+size: 1.5rem; padding: 8px; border-radius: 50%; overflow: visible; transiti=
+on: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color: inherit=
+; margin-left: 8px; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-1af0845f-92d9-41be-8358-36489258ea47@mhtml.blink
+
+@charset "utf-8";
+
+.css-10l8haz-MuiIconButton-root:hover { background-color: rgba(255, 255, 25=
+5, 0.08); }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6dc9d865-8468-4dbd-a8a6-492a50f6d5af@mhtml.blink
+
+@charset "utf-8";
+
+@media (hover: none) {
+  .css-10l8haz-MuiIconButton-root:hover { background-color: transparent; }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-2987b75a-2c1e-4014-ac57-91eeb664bc8e@mhtml.blink
+
+@charset "utf-8";
+
+.css-10l8haz-MuiIconButton-root.Mui-disabled { background-color: transparen=
+t; color: rgba(255, 255, 255, 0.3); }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-36d8889a-ed45-460e-b525-d4327be87eb1@mhtml.blink
+
+@charset "utf-8";
+
+.css-w6mvf4-MuiButtonBase-root-MuiIconButton-root { display: inline-flex; -=
+webkit-box-align: center; align-items: center; -webkit-box-pack: center; ju=
+stify-content: center; position: relative; box-sizing: border-box; -webkit-=
+tap-highlight-color: transparent; background-color: transparent; outline: 0=
+px; border: 0px; margin: 0px 0px 0px 8px; cursor: pointer; user-select: non=
+e; vertical-align: middle; appearance: none; text-decoration: none; text-al=
+ign: center; flex: 0 0 auto; font-size: 1.5rem; padding: 8px; border-radius=
+: 50%; overflow: visible; transition: background-color 150ms cubic-bezier(0=
+.4, 0, 0.2, 1) 0ms; color: inherit; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-0d357f8e-0d33-4ffd-80b7-217281bb11e3@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d267e234-c502-417e-8bbb-fa284543a8e7@mhtml.blink
+
+@charset "utf-8";
+
+.css-w6mvf4-MuiButtonBase-root-MuiIconButton-root.Mui-disabled { pointer-ev=
+ents: none; cursor: default; }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-2d509bdf-4ad2-4de4-bebb-6bbd5c78ad4e@mhtml.blink
+
+@charset "utf-8";
+
+@media print {
+  .css-w6mvf4-MuiButtonBase-root-MuiIconButton-root { -webkit-print-color-a=
+djust: exact; }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-21630e11-4560-4cf5-a4a4-f4c99b9f4ca5@mhtml.blink
+
+@charset "utf-8";
+
+.css-w6mvf4-MuiButtonBase-root-MuiIconButton-root:hover { background-color:=
+ rgba(255, 255, 255, 0.08); }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-dd520756-a3b6-4665-b077-97c7156e81e7@mhtml.blink
+
+@charset "utf-8";
+
+@media (hover: none) {
+  .css-w6mvf4-MuiButtonBase-root-MuiIconButton-root:hover { background-colo=
+r: transparent; }
+}
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-270500e3-fd70-4109-b7f3-ee28f407beb6@mhtml.blink
+
+@charset "utf-8";
+
+.css-w6mvf4-MuiButtonBase-root-MuiIconButton-root.Mui-disabled { background=
+-color: transparent; color: rgba(255, 255, 255, 0.3); }
+------MultipartBoundary--cq2QZ7Tk3IcadMxqgtIaSkbYUWZKXGd7AteTMQCe7i------
